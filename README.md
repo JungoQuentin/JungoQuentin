@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 Working on
-  - [](https://github.com/QJungo-42Cursus)
-  - [](https://github.com/DynamicUI)
+  - [Cursus 42](https://github.com/QJungo-42Cursus)
+  - [DynamicUI](https://github.com/DynamicUI)
 - 🌱 Learning
   - The C programming language
   - The Rust programming language
