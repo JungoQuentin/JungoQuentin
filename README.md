@@ -1,7 +1,7 @@
 ### Good evening
 
 - 🔭 Working on
-  - [Cursus 42](https://github.com/QJungo-42Cursus) [(currently with)](https://github.com/JungoQuentin/minishell)
+  - [Cursus 42](https://github.com/QJungo-42Cursus) (currently with [minishell](https://github.com/JungoQuentin/minishell))
   - [JE42 Lausanne](https://github.com/Junior-42Lausanne)
   - [DynamicUI](https://github.com/DynamicUI)
 - 🌱 Learning
