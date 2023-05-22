@@ -8,7 +8,7 @@
   - The C programming language
   - The Rust programming language
   - A lot of web stuff
-- My beloved side-projects
+- 👾 My beloved side-projects
   - [TUI keyboard Racer](https://github.com/JungoQuentin/TUI_KeyboardRacer) A terminal game to learn touch typing, and for me to learn Rust
   - [FireSvelteStarter](https://github.com/JungoQuentin/FireSvelteStarter) A starter for Svelte with Firebase
   - [PG-SDL](https://github.com/BendayLang/pg_sdl) A UI library / Widget toolkit for Rust, using SDL2
