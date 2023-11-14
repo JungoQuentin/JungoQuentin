@@ -3,7 +3,6 @@
 - 🔭 Working on
   - Internship at [@Infomaniak](https://www.infomaniak.com/)
   - [Junior 42 Lausanne](https://j42l.ch/) (website under construction)
-  - [Benday](https://github.com/BendayLang)
 - 🌱 Learning
   - The Rust programming language
   - A lot of web stuff
