@@ -1,8 +1,8 @@
 ### Good evening
 
 - 🔭 Working on
-  - [Cursus 42](https://github.com/QJungo-42Cursus) (currently on [transcendence](https://github.com/QJungo-42Cursus/transcendence))
-  - [JE42 Lausanne](https://junior.42lausanne.ch/) (website under construction)
+  - Internship at [@Infomaniak](https://www.infomaniak.com/)
+  - [Junior 42 Lausanne](https://j42l.ch/) (website under construction)
   - [Benday](https://github.com/BendayLang)
 - 🌱 Learning
   - The Rust programming language
@@ -14,3 +14,6 @@
   - [Me Me & Me](https://memeandme.itch.io/me-me-me-game-jam) A game made in 42h for the [UPsi Jam 2022](https://upsijam.ch/) (We obviously won the first place)
   -->
   - [PG-SDL](https://github.com/BendayLang/pg_sdl) A UI library / Widget toolkit for Rust, using SDL2
+- Done
+  - [Cursus 42](https://github.com/QJungo-42Cursus)
+  
